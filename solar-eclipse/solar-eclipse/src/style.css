@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+body,
+html {
+  overflow: hidden;
+  height:100%;
+
+}
+/* .bg{
+  background-image: url("https://images.unsplash.com/photo-1611107875582-684c70574042?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  position: absolute; 
+} */
+/* .solar{
+  position: absolute;
+  height: 100%; width: 100%;
+} 
+ */
+/* .shadow{
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: white;
+  top: -5px;
+  left:0px;
+  animation: moveShadow 10s infinite 1.5s;
+}
+ */
+/* @keyframes moveShadow{
+  0%{
+    transform: translateX(150px);
+    background-color: white;
+  }
+  50%{
+    transform: translateX(-10px);
+    background-color: black;
+  }
+  100% {
+    transform: translateX(-170px);
+    background-color: white;
+  } */
+}
