@@ -1,4 +1,5 @@
 # solar eclipse
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Maria-98-ui/pen/wvYVNvW](https://codepen.io/Maria-98-ui/pen/wvYVNvW).
+Solar Eclipse effect using three.js - bloom pass 
 
+Live Preview -> https://solareffect.netlify.app/
